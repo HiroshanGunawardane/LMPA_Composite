@@ -139,6 +139,4 @@ Then optionally run any of the fitting or statistical analysis scripts.
   - `dma_analysis.m`
   - `compare_E.m`
 
-## In one sentence
 
-This MATLAB codebase turns raw DMA experiments into processed modulus tables, summary plots, and cross-material comparison figures for soft composite systems.
