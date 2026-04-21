@@ -1,0 +1,1 @@
+The material stiffness is independent of material type but is highly correlated with material concentration.
