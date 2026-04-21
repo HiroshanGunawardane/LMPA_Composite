@@ -1,0 +1,6 @@
+Concentration,ComparisonType,Group1,Group2,N1,N2,Statistic_H,P_Value_Raw,Alpha_Bonferroni,Is_Significant_Bonf
+10,KruskalWallis,Overall,Cerr 117 vs Cerr 158 vs FM,3,11,2.21714285714286,0.330030096035858,NaN,0
+20,KruskalWallis,Overall,Cerr 117 vs Cerr 158 vs FM,3,9,4.15384615384615,0.125315204844137,NaN,0
+30,KruskalWallis,Overall,Cerr 117 vs Cerr 158 vs FM,4,14,3.97894736842105,0.136767389342491,NaN,0
+40,KruskalWallis,Overall,Cerr 117 vs Cerr 158 vs FM,4,9,2.13956043956044,0.343083912190888,NaN,0
+50,KruskalWallis,Overall,Cerr 117 vs Cerr 158 vs FM,3,12,3.2,0.201896517994655,NaN,0
